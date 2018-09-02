@@ -1,0 +1,7 @@
+{
+    "name": "Ecommerce-app",
+    "version": "1.0.0",
+    "description": "This a app includes basic functionalities of ecommerce web api",
+    "title": "Ecommerce App APIs",
+    "url": "http://localhost:5000"
+}
